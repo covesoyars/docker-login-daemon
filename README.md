@@ -10,3 +10,4 @@ to unload: `make unload`
 
 see logs in this dir for results
 
+MUST GIVE SH FULL DISK ACCESS IN SYSTEM PREFERENCES -> SECURITY & PRIVACY -> FULL DISK ACCESS
